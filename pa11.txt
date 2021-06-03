@@ -1,0 +1,15 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E819-B79E
+
+ Directory of C:\Users\Pavan\Desktop\freestyleproject
+
+03-06-2021  18:40    <DIR>          .
+03-06-2021  18:40    <DIR>          ..
+03-06-2021  18:35               541 pa1.txt
+03-06-2021  18:40                 0 pa11.txt
+03-06-2021  14:43               414 test.class
+03-06-2021  14:43               108 test.java
+03-06-2021  17:54               468 test1.class
+03-06-2021  17:54               139 test1.java
+               6 File(s)          1,670 bytes
+               2 Dir(s)  57,882,718,208 bytes free
